@@ -4,6 +4,8 @@ This project is a single-page application (SPA) built with React and Vite. It fe
 
 ## Live Server
 
+https://world-wise-mahmoud.netlify.app/
+
 ## Project Structure
 
 The project structure follows the typical structure of a React Vite project. Here's an overview of the important files and directories:
