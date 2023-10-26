@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 31.205753,
+        "lng": 29.924526
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Tunis",
+      "country": "Tunisia",
+      "notes": "good",
+      "emoji": "🇹🇳",
+      "date": "2023-09-23T23:05:49.818Z",
+      "position": {
+        "lat": "36.70802590705525",
+        "lng": "10.100270564053222"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Gharyan",
+      "country": "Libya",
+      "notes": "amazing",
+      "emoji": "🇱🇾",
+      "date": "2023-09-23T23:05:59.749Z",
+      "position": {
+        "lat": "31.792320423336122",
+        "lng": "13.133143910137315"
+      },
+      "id": 98443199
+    }
+  ]
+}
