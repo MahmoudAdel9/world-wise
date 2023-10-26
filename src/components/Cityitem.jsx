@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { Link } from "react-router-dom";
-import styles from "./CityItem.module.css";
+import styles from "./Cityitem.module.css";
 import { useCities } from "../context/CitiesContext";
 
 const formatDate = (date) =>
